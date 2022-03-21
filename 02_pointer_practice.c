@@ -7,6 +7,7 @@ int sum(int *a, int *b)
 }
 int main()
 {
+   printf("yuvraj dahiya\n");
     int x = 4, y = 7;
     printf("Sum = %d", sum(&x, &y));
     return 0;
