@@ -3,6 +3,7 @@ int sum(int *, int *, int *);
 float avg(float *, float *, float *);
 int main()
 {
+    printf("yuvraj dahiya\n");
     int p = 2, q = 4, r = 6;
     float a = 2, b = 4, c = 6;
     printf(" sum = %u", sum(&p, &q, &r));
