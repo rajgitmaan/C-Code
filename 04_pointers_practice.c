@@ -11,7 +11,7 @@ void swap(int *a, int *b, int *c)
 int main()
 {
     int a, b, c;
-    printf("yuvraj dahiya\n")
+    printf("yuvraj dahiya\n");
     printf("\nEnter the elements = ");
     scanf("%d%d%d", &a, &b, &c);
     printf("Before swap");
