@@ -2,7 +2,7 @@
 
 int main()
 {
-
+    printf("yuvraj dahiya\n");
     int gender, qualification, yos, salary = 0;
     printf("Male=0/Female=1\n");
     scanf("%d", &gender);
