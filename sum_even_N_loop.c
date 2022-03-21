@@ -1,8 +1,8 @@
 #include<stdio.h>
 // Write a C program to find sum of all even numbers between 1 to n.
-{
-int main()	
+int main(){	
 int a=1,n,sum=0;
+prinf("yuvraj dahiya");      
 printf("Enter the value of n\n");
 scanf("%d",&n);
 // printf("Even numbers 1-%d = ",n);
