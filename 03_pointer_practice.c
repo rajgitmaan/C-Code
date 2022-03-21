@@ -3,6 +3,7 @@
 int main()
 {
     int a, b;
+    printf("yuvraj dahiya\n")
     printf("Enter the value of a and b \n");
     scanf("%d %d", &a, &b);
     a > b ? printf("%d is greater\n", a) : printf("%d is greater\n", b);
