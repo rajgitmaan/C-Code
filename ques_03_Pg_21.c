@@ -6,6 +6,7 @@ int main()
     //  Write a program to convert and print this distance in meters, feet, inches and centimeters.
 
     float distance, m, f, i, c;
+    printf("yuvraj dahiya\n")
     printf("Enter distance in km\n");
     scanf("%f", &distance);
     m = distance * 1000;
